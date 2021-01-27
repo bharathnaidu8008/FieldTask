@@ -1,7 +1,7 @@
-Install python
-Install flask <pip install flask>
-Clone this project and open cmd in project location
-run <python Application.py>
+Install python ->
+Install flask <pip install flask> ->
+Clone this project and open cmd in project location ->
+run <python Application.py> ->
 It will start the application
   
 ---json format---
